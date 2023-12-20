@@ -4,7 +4,7 @@ Tailwind CSS practice toy project.
 
 ## Demo
 
-[tailwindcss-pratice-email-subscriber](https://beescuit9510.github.io/tailwindpratice-email-subscriber/)
+[tailwindcss-pratice-email-subscriber](https://beescuit9510.github.io/tailwindcss-pratice-email-subscriber/)
 
 ## Tech Stack
 
